@@ -3,6 +3,7 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+jdk-8u202-linux-x64.tar.gz
 
 ### STS ###
 .apt_generated
